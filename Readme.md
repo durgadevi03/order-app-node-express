@@ -28,7 +28,7 @@ MIDDLEWARES
 API's 
 --------------
 * USERS
-    * Login and Register a user - ADMIN/CUTOMER  
+    * Login and Register a user - ADMIN/CUSTOMER  
 * ORDERS 
     * PERMIT access - CUSTOMER 
     * Placing a new orders and fetching all orders
